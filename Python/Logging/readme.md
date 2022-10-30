@@ -173,3 +173,9 @@ logger.info("Test the custom logger")
 ```
 
 After running the script we can see that there was a new log file createt in thhe logs folder and the old one was untouched because the script hasn't overwritten the old log file.
+
+We get an output:
+
+```
+2022-10-30 16:48:42,450 - __main__ - INFO - Test the custom logger
+```
